@@ -1,0 +1,22 @@
+// FINTRACK_TECH_V2 - Modern Fintech Theme
+export const colors = {
+  background: '#090D1A',
+  surface: '#111827',
+  surfaceElevated: '#172238',
+  surfaceCard: '#131D31',
+  ink: '#F1F5F9',
+  inkSecondary: '#94A3B8',
+  muted: '#64748B',
+  primary: '#38BDF8',
+  primaryDark: '#0284C7',
+  primarySoft: 'rgba(56, 189, 248, 0.12)',
+  soft: '#16233B',
+  border: '#1E293B',
+  borderSubtle: '#26354D',
+  borderHighlight: 'rgba(56, 189, 248, 0.4)',
+  income: '#10B981',
+  incomeSoft: 'rgba(16, 185, 129, 0.12)',
+  expense: '#F43F5E',
+  expenseSoft: 'rgba(244, 63, 94, 0.12)',
+  warning: '#F59E0B',
+};
